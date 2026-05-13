@@ -26,9 +26,8 @@
 #### 项目声明 Project Statement
 本项目的名称、作者及单位:
 
-
 项目名称：Encrypted Image Retrieval 加密图像检索
 项目作者：Liang Jing
-作者单位：暨南大学网路空问全学院
+作者单位：暨南大学网络空间安全学院
 
 
