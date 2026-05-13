@@ -1,4 +1,4 @@
-# Privacy-Preserving Image Retrieval 隐私保护图像检索
+# Encrypted Image Retrieval 加密图像检索
 
 #### 介绍
 
