@@ -23,6 +23,12 @@
 5. 本软件隐私保护图像检索功能能够被第三方程序引用或可编译为可执行软件，具备用户交互功能。使用者进入Server_GUI.py所在命令行或者终端下，执行python Server_GUI.py --query_count 5 --want_top 3语句并输入查询图像编号即可，其中，数字5和3可根据实际情况进行更改，分别表示查询相似图像的次数和返回相似图像的个数。
 6. 子目录image_eample存储原始图像以及使用基于AES和基于混沌的图像加密算法的结果数据示例。
 
+#### 项目声明 Project Statement
+本项目的名称、作者及单位:
 
+
+项目名称：Encrypted Image Retrieval 加密图像检索
+项目作者：Liang Jing
+作者单位：暨南大学网路空问全学院
 
 
